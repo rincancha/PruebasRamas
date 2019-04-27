@@ -6,6 +6,9 @@
 		</main>
 		<div>
 			Estos contenedores genericos
+		<div>
+		<div>
+			Aqui hay algo generico
 		</div>
 	</body>
 </html>
