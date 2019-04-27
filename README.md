@@ -1,7 +1,10 @@
 <html>
 	<body>
-		<main>
+		<div>
 			Hola a todos
-		</main>
+		<div>
+		<div>
+			Aqui hay algo generico
+		</div>
 	</body>
 </html>
